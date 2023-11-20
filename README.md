@@ -1,1 +1,1 @@
-# speeches
+web scrapping using python to download speeches from website using Selenium Library. Cleaning data using custom stopwords list. Extracting metadata (title, date, place) and categorizing speeches according to years or by keywords)
