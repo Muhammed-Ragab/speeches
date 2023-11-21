@@ -20,4 +20,3 @@
         Extract metadata (title, date, place) using regular expressions.
         Categorize speeches by years or keywords for efficient organization and analysis.
 
-This concise summary captures the key steps in the workflow, from web scraping to data cleaning, metadata extraction, and categorization.
